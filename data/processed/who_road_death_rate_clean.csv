@@ -1,0 +1,198 @@
+location_code,location,parent_location_code,parent_location,year,death_rate_per_100k,lower_estimate,upper_estimate,unit,modified_at
+HKG,"China, Hong Kong Special Administrative Region",GLOBAL,Global,2021,0.0,,,,2024-04-14T18:30:00.000Z
+MAC,"China, Macao Special Administrative Region",GLOBAL,Global,2021,0.0,,,,2024-04-14T18:30:00.000Z
+MCO,Monaco,EUR,Europe,2021,0.0,,,,2024-04-14T18:30:00.000Z
+NIU,Niue,WPR,Western Pacific,2021,0.0,,,,2024-04-14T18:30:00.000Z
+MDV,Maldives,SEAR,South-East Asia,2021,1.3,,,,2024-04-14T18:30:00.000Z
+NOR,Norway,EUR,Europe,2021,1.5,,,,2024-04-14T18:30:00.000Z
+MLT,Malta,EUR,Europe,2021,1.9,,,,2024-04-14T18:30:00.000Z
+SGP,Singapore,WPR,Western Pacific,2021,1.9,,,,2024-04-14T18:30:00.000Z
+BRB,Barbados,AMR,Americas,2021,10.0,,,,2024-04-14T18:30:00.000Z
+CHL,Chile,AMR,Americas,2021,10.3,,,,2024-04-14T18:30:00.000Z
+UKR,Ukraine,EUR,Europe,2021,10.5,,,,2024-04-14T18:30:00.000Z
+CMR,Cameroon,AFR,Africa,2021,10.6,,,,2024-04-14T18:30:00.000Z
+RUS,Russian Federation,EUR,Europe,2021,10.6,,,,2024-04-14T18:30:00.000Z
+ALB,Albania,EUR,Europe,2021,10.8,,,,2024-04-14T18:30:00.000Z
+DMA,Dominica,AMR,Americas,2021,11.0,,,,2024-04-14T18:30:00.000Z
+OMN,Oman,EMR,Eastern Mediterranean,2021,11.0,,,,2024-04-14T18:30:00.000Z
+SLB,Solomon Islands,WPR,Western Pacific,2021,11.2,,,,2024-04-14T18:30:00.000Z
+IDN,Indonesia,WPR,Western Pacific,2021,11.3,,,,2024-04-14T18:30:00.000Z
+LKA,Sri Lanka,SEAR,South-East Asia,2021,11.5,,,,2024-04-14T18:30:00.000Z
+RWA,Rwanda,AFR,Africa,2021,11.6,,,,2024-04-14T18:30:00.000Z
+GNQ,Equatorial Guinea,AFR,Africa,2021,11.7,,,,2024-04-14T18:30:00.000Z
+STP,Sao Tome and Principe,AFR,Africa,2021,11.7,,,,2024-04-14T18:30:00.000Z
+MHL,Marshall Islands,WPR,Western Pacific,2021,11.9,,,,2024-04-14T18:30:00.000Z
+PAK,Pakistan,EMR,Eastern Mediterranean,2021,11.9,,,,2024-04-14T18:30:00.000Z
+MEX,Mexico,AMR,Americas,2021,12.0,,,,2024-04-14T18:30:00.000Z
+TLS,Timor-Leste,SEAR,South-East Asia,2021,12.0,,,,2024-04-14T18:30:00.000Z
+BTN,Bhutan,SEAR,South-East Asia,2021,12.2,,,,2024-04-14T18:30:00.000Z
+KAZ,Kazakhstan,EUR,Europe,2021,12.2,,,,2024-04-14T18:30:00.000Z
+BDI,Burundi,AFR,Africa,2021,12.3,,,,2024-04-14T18:30:00.000Z
+MNG,Mongolia,WPR,Western Pacific,2021,12.4,,,,2024-04-14T18:30:00.000Z
+GAB,Gabon,AFR,Africa,2021,12.5,,,,2024-04-14T18:30:00.000Z
+PRI,Puerto Rico,AMR,Americas,2021,12.5,,,,2024-04-14T18:30:00.000Z
+VUT,Vanuatu,WPR,Western Pacific,2021,12.5,,,,2024-04-14T18:30:00.000Z
+GTM,Guatemala,AMR,Americas,2021,12.6,,,,2024-04-14T18:30:00.000Z
+GEO,Georgia,EUR,Europe,2021,12.7,,,,2024-04-14T18:30:00.000Z
+PER,Peru,AMR,Americas,2021,12.7,,,,2024-04-14T18:30:00.000Z
+URY,Uruguay,AMR,Americas,2021,13.0,,,,2024-04-14T18:30:00.000Z
+VEN,Venezuela (Bolivarian Republic of),AMR,Americas,2021,13.2,,,,2024-04-14T18:30:00.000Z
+KGZ,Kyrgyzstan,EUR,Europe,2021,13.3,,,,2024-04-14T18:30:00.000Z
+ARM,Armenia,EUR,Europe,2021,13.6,,,,2024-04-14T18:30:00.000Z
+JOR,Jordan,EMR,Eastern Mediterranean,2021,13.6,,,,2024-04-14T18:30:00.000Z
+NIC,Nicaragua,AMR,Americas,2021,13.6,,,,2024-04-14T18:30:00.000Z
+BIH,Bosnia and Herzegovina,EUR,Europe,2021,13.7,,,,2024-04-14T18:30:00.000Z
+SLE,Sierra Leone,AFR,Africa,2021,13.8,,,,2024-04-14T18:30:00.000Z
+MYS,Malaysia,WPR,Western Pacific,2021,13.9,,,,2024-04-14T18:30:00.000Z
+TJK,Tajikistan,EUR,Europe,2021,13.9,,,,2024-04-14T18:30:00.000Z
+FSM,Micronesia (Federated States of),WPR,Western Pacific,2021,14.1,,,,2024-04-14T18:30:00.000Z
+USA,United States of America,AMR,Americas,2021,14.2,,,,2024-04-14T18:30:00.000Z
+IND,India,SEAR,South-East Asia,2021,14.6,,,,2024-04-14T18:30:00.000Z
+PNG,Papua New Guinea,WPR,Western Pacific,2021,14.9,,,,2024-04-14T18:30:00.000Z
+AGO,Angola,AFR,Africa,2021,15.0,,,,2024-04-14T18:30:00.000Z
+GUY,Guyana,AMR,Americas,2021,15.2,,,,2024-04-14T18:30:00.000Z
+LBR,Liberia,AFR,Africa,2021,15.3,,,,2024-04-14T18:30:00.000Z
+CRI,Costa Rica,AMR,Americas,2021,15.5,,,,2024-04-14T18:30:00.000Z
+BRA,Brazil,AMR,Americas,2021,15.7,,,,2024-04-14T18:30:00.000Z
+TZA,United Republic of Tanzania,AFR,Africa,2021,15.8,,,,2024-04-14T18:30:00.000Z
+UGA,Uganda,AFR,Africa,2021,16.0,,,,2024-04-14T18:30:00.000Z
+BHS,Bahamas,AMR,Americas,2021,16.2,,,,2024-04-14T18:30:00.000Z
+COL,Colombia,AMR,Americas,2021,16.2,,,,2024-04-14T18:30:00.000Z
+SUR,Suriname,AMR,Americas,2021,16.2,,,,2024-04-14T18:30:00.000Z
+COD,Democratic Republic of the Congo,AFR,Africa,2021,16.3,,,,2024-04-14T18:30:00.000Z
+TUN,Tunisia,EMR,Eastern Mediterranean,2021,16.3,,,,2024-04-14T18:30:00.000Z
+LAO,Lao People's Democratic Republic,WPR,Western Pacific,2021,16.4,,,,2024-04-14T18:30:00.000Z
+BWA,Botswana,AFR,Africa,2021,16.5,,,,2024-04-14T18:30:00.000Z
+CPV,Cabo Verde,AFR,Africa,2021,16.5,,,,2024-04-14T18:30:00.000Z
+ZMB,Zambia,AFR,Africa,2021,17.1,,,,2024-04-14T18:30:00.000Z
+AZE,Azerbaijan,EUR,Europe,2021,17.2,,,,2024-04-14T18:30:00.000Z
+NGA,Nigeria,AFR,Africa,2021,17.2,,,,2024-04-14T18:30:00.000Z
+CHN,China,WPR,Western Pacific,2021,17.4,,,,2024-04-14T18:30:00.000Z
+BLZ,Belize,AMR,Americas,2021,17.5,,,,2024-04-14T18:30:00.000Z
+BOL,Bolivia (Plurinational State of),AMR,Americas,2021,17.6,,,,2024-04-14T18:30:00.000Z
+COK,Cook Islands,WPR,Western Pacific,2021,17.6,,,,2024-04-14T18:30:00.000Z
+ERI,Eritrea,AFR,Africa,2021,17.7,,,,2024-04-14T18:30:00.000Z
+ETH,Ethiopia,AFR,Africa,2021,17.7,,,,2024-04-14T18:30:00.000Z
+VNM,Viet Nam,WPR,Western Pacific,2021,17.7,,,,2024-04-14T18:30:00.000Z
+JAM,Jamaica,AMR,Americas,2021,17.8,,,,2024-04-14T18:30:00.000Z
+TUV,Tuvalu,WPR,Western Pacific,2021,17.9,,,,2024-04-14T18:30:00.000Z
+DZA,Algeria,AFR,Africa,2021,18.3,,,,2024-04-14T18:30:00.000Z
+HND,Honduras,AMR,Americas,2021,18.5,,,,2024-04-14T18:30:00.000Z
+SAU,Saudi Arabia,EMR,Eastern Mediterranean,2021,18.5,,,,2024-04-14T18:30:00.000Z
+BGD,Bangladesh,SEAR,South-East Asia,2021,18.6,,,,2024-04-14T18:30:00.000Z
+MAR,Morocco,EMR,Eastern Mediterranean,2021,18.6,,,,2024-04-14T18:30:00.000Z
+KHM,Cambodia,WPR,Western Pacific,2021,18.8,,,,2024-04-14T18:30:00.000Z
+MMR,Myanmar,SEAR,South-East Asia,2021,19.3,,,,2024-04-14T18:30:00.000Z
+SDN,Sudan,EMR,Eastern Mediterranean,2021,19.6,,,,2024-04-14T18:30:00.000Z
+SWE,Sweden,EUR,Europe,2021,2.1,,,,2024-04-14T18:30:00.000Z
+DNK,Denmark,EUR,Europe,2021,2.3,,,,2024-04-14T18:30:00.000Z
+ISL,Iceland,EUR,Europe,2021,2.4,,,,2024-04-14T18:30:00.000Z
+CHE,Switzerland,EUR,Europe,2021,2.4,,,,2024-04-14T18:30:00.000Z
+GBR,United Kingdom of Great Britain and Northern Ireland,EUR,Europe,2021,2.4,,,,2024-04-14T18:30:00.000Z
+AND,Andorra,EUR,Europe,2021,2.5,,,,2024-04-14T18:30:00.000Z
+JPN,Japan,WPR,Western Pacific,2021,2.7,,,,2024-04-14T18:30:00.000Z
+IRL,Ireland,EUR,Europe,2021,2.8,,,,2024-04-14T18:30:00.000Z
+MOZ,Mozambique,AFR,Africa,2021,20.1,,,,2024-04-14T18:30:00.000Z
+MWI,Malawi,AFR,Africa,2021,20.2,,,,2024-04-14T18:30:00.000Z
+MLI,Mali,AFR,Africa,2021,20.2,,,,2024-04-14T18:30:00.000Z
+SOM,Somalia,EMR,Eastern Mediterranean,2021,20.2,,,,2024-04-14T18:30:00.000Z
+CIV,Cote d'Ivoire,AFR,Africa,2021,20.6,,,,2024-04-14T18:30:00.000Z
+IRN,Iran (Islamic Republic of),EMR,Eastern Mediterranean,2021,20.6,,,,2024-04-14T18:30:00.000Z
+SEN,Senegal,AFR,Africa,2021,20.8,,,,2024-04-14T18:30:00.000Z
+PRY,Paraguay,AMR,Americas,2021,21.0,,,,2024-04-14T18:30:00.000Z
+SLV,El Salvador,AMR,Americas,2021,21.5,,,,2024-04-14T18:30:00.000Z
+IRQ,Iraq,EMR,Eastern Mediterranean,2021,21.5,,,,2024-04-14T18:30:00.000Z
+LSO,Lesotho,AFR,Africa,2021,21.6,,,,2024-04-14T18:30:00.000Z
+GMB,Gambia,AFR,Africa,2021,22.0,,,,2024-04-14T18:30:00.000Z
+NAM,Namibia,AFR,Africa,2021,22.0,,,,2024-04-14T18:30:00.000Z
+PLW,Palau,WPR,Western Pacific,2021,22.2,,,,2024-04-14T18:30:00.000Z
+MDG,Madagascar,AFR,Africa,2021,22.5,,,,2024-04-14T18:30:00.000Z
+TGO,Togo,AFR,Africa,2021,22.7,,,,2024-04-14T18:30:00.000Z
+KNA,Saint Kitts and Nevis,AMR,Americas,2021,23.1,,,,2024-04-14T18:30:00.000Z
+DJI,Djibouti,EMR,Eastern Mediterranean,2021,23.3,,,,2024-04-14T18:30:00.000Z
+SSD,South Sudan,AFR,Africa,2021,23.3,,,,2024-04-14T18:30:00.000Z
+ECU,Ecuador,AMR,Americas,2021,23.4,,,,2024-04-14T18:30:00.000Z
+AFG,Afghanistan,EMR,Eastern Mediterranean,2021,24.1,,,,2024-04-14T18:30:00.000Z
+ZAF,South Africa,AFR,Africa,2021,24.5,,,,2024-04-14T18:30:00.000Z
+SWZ,Eswatini,AFR,Africa,2021,24.7,,,,2024-04-14T18:30:00.000Z
+BEN,Benin,AFR,Africa,2021,24.8,,,,2024-04-14T18:30:00.000Z
+NER,Niger,AFR,Africa,2021,24.9,,,,2024-04-14T18:30:00.000Z
+THA,Thailand,SEAR,South-East Asia,2021,25.4,,,,2024-04-14T18:30:00.000Z
+CAF,Central African Republic,AFR,Africa,2021,25.9,,,,2024-04-14T18:30:00.000Z
+GHA,Ghana,AFR,Africa,2021,25.9,,,,2024-04-14T18:30:00.000Z
+TCD,Chad,AFR,Africa,2021,26.4,,,,2024-04-14T18:30:00.000Z
+DOM,Dominican Republic,AMR,Americas,2021,27.4,,,,2024-04-14T18:30:00.000Z
+BFA,Burkina Faso,AFR,Africa,2021,27.8,,,,2024-04-14T18:30:00.000Z
+KEN,Kenya,AFR,Africa,2021,28.2,,,,2024-04-14T18:30:00.000Z
+NPL,Nepal,SEAR,South-East Asia,2021,28.2,,,,2024-04-14T18:30:00.000Z
+COM,Comoros,AFR,Africa,2021,29.0,,,,2024-04-14T18:30:00.000Z
+YEM,Yemen,EMR,Eastern Mediterranean,2021,29.8,,,,2024-04-14T18:30:00.000Z
+SYR,Syrian Arab Republic,EMR,Eastern Mediterranean,2021,29.9,,,,2024-04-14T18:30:00.000Z
+ZWE,Zimbabwe,AFR,Africa,2021,29.9,,,,2024-04-14T18:30:00.000Z
+DEU,Germany,EUR,Europe,2021,3.3,,,,2024-04-14T18:30:00.000Z
+NLD,Netherlands (Kingdom of the),EUR,Europe,2021,3.4,,,,2024-04-14T18:30:00.000Z
+ESP,Spain,EUR,Europe,2021,3.5,,,,2024-04-14T18:30:00.000Z
+BRN,Brunei Darussalam,WPR,Western Pacific,2021,3.6,,,,2024-04-14T18:30:00.000Z
+CYP,Cyprus,EUR,Europe,2021,3.9,,,,2024-04-14T18:30:00.000Z
+LUX,Luxembourg,EUR,Europe,2021,3.9,,,,2024-04-14T18:30:00.000Z
+GNB,Guinea-Bissau,AFR,Africa,2021,30.5,,,,2024-04-14T18:30:00.000Z
+HTI,Haiti,AMR,Americas,2021,31.3,,,,2024-04-14T18:30:00.000Z
+LBY,Libya,EMR,Eastern Mediterranean,2021,34.0,,,,2024-04-14T18:30:00.000Z
+GIN,Guinea,AFR,Africa,2021,37.4,,,,2024-04-14T18:30:00.000Z
+FIN,Finland,EUR,Europe,2021,4.2,,,,2024-04-14T18:30:00.000Z
+ISR,Israel,EUR,Europe,2021,4.2,,,,2024-04-14T18:30:00.000Z
+EST,Estonia,EUR,Europe,2021,4.4,,,,2024-04-14T18:30:00.000Z
+AUS,Australia,WPR,Western Pacific,2021,4.5,,,,2024-04-14T18:30:00.000Z
+AUT,Austria,EUR,Europe,2021,4.6,,,,2024-04-14T18:30:00.000Z
+BEL,Belgium,EUR,Europe,2021,4.6,,,,2024-04-14T18:30:00.000Z
+CAN,Canada,AMR,Americas,2021,4.7,,,,2024-04-14T18:30:00.000Z
+FRA,France,EUR,Europe,2021,4.7,,,,2024-04-14T18:30:00.000Z
+PSE,"occupied Palestinian territory, including east Jerusalem",EMR,Eastern Mediterranean,2021,4.7,,,,2024-04-14T18:30:00.000Z
+VCT,Saint Vincent and the Grenadines,AMR,Americas,2021,4.8,,,,2024-04-14T18:30:00.000Z
+ITA,Italy,EUR,Europe,2021,5.0,,,,2024-04-14T18:30:00.000Z
+TTO,Trinidad and Tobago,AMR,Americas,2021,5.0,,,,2024-04-14T18:30:00.000Z
+CZE,Czechia,EUR,Europe,2021,5.2,,,,2024-04-14T18:30:00.000Z
+FJI,Fiji,WPR,Western Pacific,2021,5.3,,,,2024-04-14T18:30:00.000Z
+CUB,Cuba,AMR,Americas,2021,5.4,,,,2024-04-14T18:30:00.000Z
+MKD,North Macedonia,EUR,Europe,2021,5.7,,,,2024-04-14T18:30:00.000Z
+SVN,Slovenia,EUR,Europe,2021,5.8,,,,2024-04-14T18:30:00.000Z
+SMR,San Marino,EUR,Europe,2021,5.9,,,,2024-04-14T18:30:00.000Z
+ARE,United Arab Emirates,EMR,Eastern Mediterranean,2021,5.9,,,,2024-04-14T18:30:00.000Z
+KIR,Kiribati,WPR,Western Pacific,2021,6.2,,,,2024-04-14T18:30:00.000Z
+LTU,Lithuania,EUR,Europe,2021,6.3,,,,2024-04-14T18:30:00.000Z
+GRD,Grenada,AMR,Americas,2021,6.4,,,,2024-04-14T18:30:00.000Z
+SVK,Slovakia,EUR,Europe,2021,6.4,,,,2024-04-14T18:30:00.000Z
+POL,Poland,EUR,Europe,2021,6.5,,,,2024-04-14T18:30:00.000Z
+TUR,Türkiye,EUR,Europe,2021,6.5,,,,2024-04-14T18:30:00.000Z
+NZL,New Zealand,WPR,Western Pacific,2021,6.6,,,,2024-04-14T18:30:00.000Z
+SYC,Seychelles,AFR,Africa,2021,6.6,,,,2024-04-14T18:30:00.000Z
+KOR,Republic of Korea,WPR,Western Pacific,2021,6.9,,,,2024-04-14T18:30:00.000Z
+PRT,Portugal,EUR,Europe,2021,7.2,,,,2024-04-14T18:30:00.000Z
+GRC,Greece,EUR,Europe,2021,7.3,,,,2024-04-14T18:30:00.000Z
+PAN,Panama,AMR,Americas,2021,7.3,,,,2024-04-14T18:30:00.000Z
+QAT,Qatar,EMR,Eastern Mediterranean,2021,7.3,,,,2024-04-14T18:30:00.000Z
+BLR,Belarus,EUR,Europe,2021,7.4,,,,2024-04-14T18:30:00.000Z
+HUN,Hungary,EUR,Europe,2021,7.4,,,,2024-04-14T18:30:00.000Z
+SRB,Serbia,EUR,Europe,2021,7.4,,,,2024-04-14T18:30:00.000Z
+ATG,Antigua and Barbuda,AMR,Americas,2021,7.5,,,,2024-04-14T18:30:00.000Z
+NRU,Naoero,WPR,Western Pacific,2021,8.0,,,,2024-04-14T18:30:00.000Z
+TKM,Turkmenistan,EUR,Europe,2021,8.0,,,,2024-04-14T18:30:00.000Z
+BHR,Bahrain,EMR,Eastern Mediterranean,2021,8.1,,,,2024-04-14T18:30:00.000Z
+HRV,Croatia,EUR,Europe,2021,8.1,,,,2024-04-14T18:30:00.000Z
+BGR,Bulgaria,EUR,Europe,2021,8.4,,,,2024-04-14T18:30:00.000Z
+COG,Congo,AFR,Africa,2021,8.4,,,,2024-04-14T18:30:00.000Z
+TON,Tonga,WPR,Western Pacific,2021,8.5,,,,2024-04-14T18:30:00.000Z
+ARG,Argentina,AMR,Americas,2021,8.8,,,,2024-04-14T18:30:00.000Z
+LCA,Saint Lucia,AMR,Americas,2021,8.9,,,,2024-04-14T18:30:00.000Z
+MNE,Montenegro,EUR,Europe,2021,9.1,,,,2024-04-14T18:30:00.000Z
+MDA,Republic of Moldova,EUR,Europe,2021,9.1,,,,2024-04-14T18:30:00.000Z
+KWT,Kuwait,EMR,Eastern Mediterranean,2021,9.2,,,,2024-04-14T18:30:00.000Z
+UZB,Uzbekistan,EUR,Europe,2021,9.3,,,,2024-04-14T18:30:00.000Z
+EGY,Egypt,EMR,Eastern Mediterranean,2021,9.4,,,,2024-04-14T18:30:00.000Z
+MRT,Mauritania,AFR,Africa,2021,9.5,,,,2024-04-14T18:30:00.000Z
+ROU,Romania,EUR,Europe,2021,9.6,,,,2024-04-14T18:30:00.000Z
+WSM,Samoa,WPR,Western Pacific,2021,9.6,,,,2024-04-14T18:30:00.000Z
+LBN,Lebanon,EMR,Eastern Mediterranean,2021,9.7,,,,2024-04-14T18:30:00.000Z
+MUS,Mauritius,AFR,Africa,2021,9.7,,,,2024-04-14T18:30:00.000Z
+PHL,Philippines,WPR,Western Pacific,2021,9.7,,,,2024-04-14T18:30:00.000Z
+LVA,Latvia,EUR,Europe,2021,9.8,,,,2024-04-14T18:30:00.000Z

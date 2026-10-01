@@ -1,0 +1,11 @@
+{
+  "target": "reported state/UT road accident count",
+  "train_years": [
+    2021,
+    2022,
+    2023
+  ],
+  "test_year": 2024,
+  "test_rows": 36,
+  "warning": "One held-out year and 36 state/UT rows provide a small, weak basis for generalization."
+}
